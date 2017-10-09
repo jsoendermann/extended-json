@@ -1,6 +1,6 @@
 {
   "name": "extended-json-js",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "repository": "https://github.com/jsoendermann/extended-json",
   "author": "Jan Soendermann <jan.soendermann+npm@gmail.com>",
   "license": "Apache-2.0",
